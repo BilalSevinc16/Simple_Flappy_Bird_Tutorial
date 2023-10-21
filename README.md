@@ -1,16 +1,7 @@
-# flappy_bird_clone_v2
+# Simple_Flappy_Bird_Tutorial
 
-A new Flutter project.
+Simple Flappy Bird Tutorial
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Flappy_Bird_Tutorial/assets/146417248/4ea512e6-a48a-4793-b63b-5b372d11e437)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Simple_Flappy_Bird_Tutorial/assets/146417248/86f2b1a9-f7c1-4f34-a91c-347d378bc7a5)
